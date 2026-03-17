@@ -1,4 +1,4 @@
- 🍽️ Recipe Recommendation System
+<h1 align="center">🍽️ Recipe Recommendation System</h1>
 
 A deep learning-based project that recommends recipes based on ingredients or food images.
 
